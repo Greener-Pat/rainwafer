@@ -1,2 +1,3 @@
-# rainwafer.github.io
+# rainwafer
+
 A display warehouse of rainwafer
